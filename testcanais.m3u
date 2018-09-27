@@ -1,0 +1,60 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="teste" pltv-description="Lista IPTV" pltv-cover="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="Neemias" pltv-email="neemias.ricardo6@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="esporte",Sportv SD
+http://iptvlivestream.com/m3u8/spe/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",Animal planet
+http://lista.digitalgroup.me:80/live/8877/8877/1719.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",Discovery
+http://94.102.52.44:8088/live/tvdiscoveryidaovivo2/playlist.m3u8?id=31568&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",H2
+http://lista.digitalgroup.me:80/live/8877/8877/2486.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="variedade s",Tlc
+https://goo.gl/ReC731
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",HiSTORY
+http://144.217.72.121:8000/live/nova1764/a1764/788.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",PREMIERE 3
+http://94.102.52.44:8088/live/premiere3hdbr6/playlist.m3u8?id=32406&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",Fox Sports
+http://94.102.52.44:8088/live/foxsportsaovivo8/playlist.m3u8?id=32462&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="filmes & séries",Max Prime
+http://144.217.72.121:8000/live/nova1764/a1764/863.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",Sportv HD
+http://94.102.52.44:8088/live/Sportvonline30/playlist.m3u8?id=32772&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",Premiere
+http://94.102.52.44:8088/live/premiere1hdbr9/playlist.m3u8?id=32408&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",ESPN BR
+http://94.102.52.44:8088/live/espnbraovivo11/playlist.m3u8?id=32762&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",premiere 5
+http://94.102.52.44:8088/live/premiere5hdbr5/playlist.m3u8?id=32404&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esportes",premiere 2
+http://94.102.52.44:8088/live/premiere2hdbr6/playlist.m3u8?id=32407&wowzasessionid=540456792&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="filmes & esporte",Tnt
+https://live-edge.pxstream.tv/hls/tnthd/chunks.m3u8?md5=WRuRWdTtbExR0A5uTWuIXQ&expires=1537639555
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="filmes & séries",A&E HD
+https://goo.gl/mZoVFF
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="filmes & esporte",SPACE
+http://185.152.66.148:25461/live/testebeka/48iDdmKNYZ/11077.ts?token=QkEOUUoORFlGDwdfDQEDAwFUVlIGVQ5XAlcMV1ZXCwQNBQMJCwBVVF0aSkRLQkZQUVw+WQYWDVMCVA4BShZNFlwROVldRFxBVQxXXggUGBdEWAxVQA4HThEUUFJEDhpdAFJRARtKRAYcTAMUVldYalRUF1kBURVYXRFVWkoWVwtmBwNdWAgCQV4aVkQUFF1GQBNbEiRbT0JnAVVTBVtVEFcKBVFaBwlDARgvCExTRltVRUF8FlBWTBFIG1QPQEoETQZEChtXVlBSGkpEW1lBW0RDGBJYFnUwEUgbUx5AXQtKCgleG1xEDldNXkQUFF1Gb0MEQxZGUgNeAUsUXBYIRxVBC1FBOQUMClYDBUxfW1tDE1sSUwQVThEJVlgPQFcXZhMPVBtcRFJQDlNUGks
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",Premiere 4
+http://94.102.52.44:8088/live/premiere4hdbr8/playlist.m3u8?id=32678&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="notícia",Cnn
+https://goo.gl/kdxQE1
