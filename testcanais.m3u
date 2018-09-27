@@ -1,8 +1,8 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="teste" pltv-description="Lista IPTV" pltv-cover="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="Neemias" pltv-email="neemias.ricardo6@gmail.com"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="esporte",Sportv SD
+#PLAYLISTV: pltv-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name = "teste" pltv-description = "Lista IPTV" pltv-cover = "https: //minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg "pltv-autor =" Neemias "pltv-email =" neemias.ricardo6@gmail.com "
+Detalhes
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "esporte", Sportv SD
 http://iptvlivestream.com/m3u8/spe/
 Detalhes
 #EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "documentários", planeta Anima
@@ -10,8 +10,8 @@ http://lista.digitalgroup.me:80/live/8877/8877/1719.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",Discovery
 http://94.102.52.44:8088/live/tvdiscoveryidaovivo2/playlist.m3u8?id=31568&pk=db0b19dc04b99eed8e4d5a6777fb2770c9e5fa909a2e6f273cac2e400a1679ba
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",H2
+Detalhes
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "documentários", H2
 http://lista.digitalgroup.me:80/live/8877/8877/2486.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="variedade s",Tlc
