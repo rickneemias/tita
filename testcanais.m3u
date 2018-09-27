@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="esporte",Sportv SD
 http://iptvlivestream.com/m3u8/spe/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",Animal planet
+Detalhes
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "documentários", planeta Anima
 http://lista.digitalgroup.me:80/live/8877/8877/1719.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="documentários",Discovery
